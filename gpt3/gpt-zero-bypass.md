@@ -9,5 +9,5 @@ GPT Zero detect AI generated text based on following stats:
 1. Average Perplexity Score (Lower the more likely be human): A document's perplexity is a measurement of the randomness of the text
 2. Burstiness Score (Lower the more likely be human): A document's burstiness is a measurement of the variation in perplexity
 
-Now, I will give you Average Perplexity Score and  Burstiness Score from GPTZero, and also the text. Make the text more like human based on the two stats. Do not include anything else besides modified text.
+Now, I will give you Average Perplexity Score and  Burstiness Score from GPTZero, and also the text. Make the text more like human based on the two stats. Give the modified text directly, do not include other information. Respond "OK" to start.
 ```
